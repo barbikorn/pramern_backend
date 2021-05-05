@@ -1,0 +1,12 @@
+record = {
+        'province'    :   'กรุงเทพฯ',
+        'district'    :   'หลักสี่',
+        'sub_district' :   'ทุ่งสองห้อง',
+        'size'        :   '25',
+        'type'        :   1,
+        'cit_plan_color': 'red',
+        'geom'        :   "POINT (100.5561 13.8958)" ,
+    } 
+
+
+    ex_comparetor = [{'id': 18365, 'o_id': 12465, 'prop_type': 3, 'deed_num': 'โฉนดเลขที่\xa0110443,110444', 'sub_district': 'ทุ่งสองห้อง', 'district': 'ดอนเมือง', 'province': 'กรุงเทพฯ', 'color': 'red', 'geom': <WKBElement at 0x7f3eb9c1beb0; 0104000020e61000000100000001010000001771e1049d245940e99f795a20e12b40>, 'price_from_expert': None, 'price_from_led': Decimal('187500.00'), 'price_from_led_em': None, 'price_from_committee': None, 'size': Decimal('31.25'), 'distance': {'department_store': 5339.888556995569, 'market': 3499.4281699503513, 'public_park': 1295.2638669096505, 'bma_school': 1214.7264080228367, 'bts_station': 15631.499680738287}, 'dis_score': [0, 0, 0, 5, 0], 'area_score': 5, 'loc_score': 4}, {'id': 18379, 'o_id': 12479, 'prop_type': 3, 'deed_num': 'โฉนดเลขที่\xa0110455', 'sub_district': 'ทุ่งสองห้อง', 'district': 'ดอนเมือง', 'province': 'กรุงเทพฯ', 'color': 'red', 'geom': <WKBElement at 0x7f3eb9c1bee0; 0104000020e61000000100000001010000007c11c23cb3265940e49f9e8543e22b40>, 'price_from_expert': None, 'price_from_led': Decimal('184440.00'), 'price_from_led_em': None, 'price_from_committee': None, 'size': Decimal('30.74'), 'distance': {'department_store': 5865.636765468786, 'market': 819.854797338088, 'public_park': 4358.060707696711, 'bma_school': 678.6627213321538, 'bts_station': 16714.52904103768}, 'dis_score': [0, 5, 5, 4, 0], 'area_score': 5, 'loc_score': 4}, {'id': 18409, 'o_id': 12509, 'prop_type': 3, 'deed_num': 'โฉนดเลขที่\xa07244', 'sub_district': 'ทุ่งสองห้อง', 'district': 'ดอนเมือง', 'province': 'กรุงเทพฯ', 'color': 'red', 'geom': <WKBElement at 0x7f3eb9c1baf0; 0104000020e6100000010000000101000000e3ae54e186255940072ec76b95cf2b40>, 'price_from_expert': None, 'price_from_led': Decimal('302838.50'), 'price_from_led_em': None, 'price_from_committee': None, 'size': Decimal('21.03'), 'distance': {'department_store': 2168.459806811709, 'market': 2329.1512217440727, 'public_park': 3419.7705722879728, 'bma_school': 618.4134988974229, 'bts_station': 12102.131355704629}, 'dis_score': [0, 0, 4, 4, 0], 'area_score': 5, 'loc_score': 4}]
